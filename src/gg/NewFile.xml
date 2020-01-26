@@ -1,0 +1,24 @@
+
+<suite name="ABCDSelenium">
+	<test name="test">
+
+		<classes>
+	
+			<class name="ravi12.Redbus">
+				<methods>
+				<include name="f"/>
+				</methods>
+				</class>
+					
+				<class name="ravi12.HMS">
+				<methods>
+				<include name="f"/>
+				</methods>
+				</class>
+						
+				
+				
+		</classes>
+	
+	</test>
+</suite>
